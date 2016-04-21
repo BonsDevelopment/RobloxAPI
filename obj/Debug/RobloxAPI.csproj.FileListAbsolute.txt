@@ -1,0 +1,5 @@
+C:\Users\Bon\documents\visual studio 2013\Projects\RobloxAPI\RobloxAPI\bin\Debug\RobloxAPI.dll
+C:\Users\Bon\documents\visual studio 2013\Projects\RobloxAPI\RobloxAPI\bin\Debug\RobloxAPI.pdb
+C:\Users\Bon\documents\visual studio 2013\Projects\RobloxAPI\RobloxAPI\obj\Debug\RobloxAPI.dll
+C:\Users\Bon\documents\visual studio 2013\Projects\RobloxAPI\RobloxAPI\obj\Debug\RobloxAPI.pdb
+C:\Users\Bon\Documents\Visual Studio 2013\Projects\RobloxAPI\RobloxAPI\obj\Debug\RobloxAPI.csprojResolveAssemblyReference.cache
